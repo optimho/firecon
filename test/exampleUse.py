@@ -53,7 +53,7 @@ from fireconpkg.fireControl import *
 #config parser is used to read configuration files
 from configparser import ConfigParser
 
-from fireconpkg.fireControl import configure
+##from fireconpkg.fireControl import configure
 
 config = ConfigParser()
 config.read('config.ini')
