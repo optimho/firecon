@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+fireconpkg/__init__.py
+fireconpkg/fireControl.py
+firecontrol.egg-info/PKG-INFO
+firecontrol.egg-info/SOURCES.txt
+firecontrol.egg-info/dependency_links.txt
+firecontrol.egg-info/requires.txt
+firecontrol.egg-info/top_level.txt
+test/__init__.py
+test/exampleUse.py
