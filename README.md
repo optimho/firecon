@@ -1,7 +1,5 @@
 <h1>Firecon</h1>
-<style>
-p {indent-text: 0em;}
-</style>
+
 
 Allows one to enable and disable pre configured firewall rules on an edge router with a simple command line tool.
 The tool can be installed on any computer on the same network as the router. 
